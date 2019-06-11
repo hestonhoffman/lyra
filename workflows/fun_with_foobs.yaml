@@ -36,5 +36,5 @@ steps:
       memory: 8G
 
   database:
-    call: foobernetes
+    call: foobernetes_database
     returns: databaseID
